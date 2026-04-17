@@ -160,6 +160,7 @@ Implementing the recommended fixes will improve the security posture of the appl
 
 ## Report
 The full vulnerability assessment report is available in this repository as a PDF.
+https://github.com/lemina271/FUTURE_CS_01/blob/28cac226de7647425eec0b3506a434a57b7d90e2/REPORT.pdf
 
 ---
 
