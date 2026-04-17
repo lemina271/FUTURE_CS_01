@@ -103,12 +103,6 @@ http://testfire.net/
 - Risk: Medium  
 - Missing CSP, X-Frame-Options  
 
----
-
-### 📸 Cookies:
-<img width="562" height="458" alt="devtool3" src="https://github.com/user-attachments/assets/bdca2b6b-81cd-46ad-bde9-9c12e17ae1dd" />
-
-
 **Insecure Cookie Configuration**  
 - Risk: Medium  
 - Missing Secure, HttpOnly, SameSite  
