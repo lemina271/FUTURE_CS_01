@@ -3,10 +3,6 @@ Cyber Security Internship Tasks - Future Interns
 
 #  Task 1 - Vulnerability Assessment Report
 
-##  Author
-Lemina K  
-Cyber Security Intern - Future Interns  
-
 ---
 
 ##  Objective
@@ -157,4 +153,21 @@ Implementing the recommended fixes will improve the security posture of the appl
 
 - Learned vulnerability assessment process  
 - Understood real-world security risks  
-- Gained hands-on experience with security tools  
+- Gained hands-on experience with security tools
+
+
+---
+
+## Report
+The full vulnerability assessment report is available in this repository as a PDF.
+
+---
+
+## Conclusion
+This assessment highlights common but impactful security misconfigurations. Addressing these issues can significantly improve the application's security posture.
+
+---
+
+## Author
+**Lemina K**  
+Cyber Security Intern – Future Interns
