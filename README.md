@@ -48,11 +48,11 @@ http://testfire.net/
 ### 🔹 Command Used: nmap -sV testfire.net
 
 ### 📸 Screenshot:
-<img width="962" height="297" alt="nmap scan" src="https://github.com/user-attachments/assets/d12b7ad7-312a-473c-8a74-484cbd4e7986" />
+<img width="962" height="297" alt="nmap scan" src="https://github.com/user-attachments/assets/65674acc-333a-4e36-946f-13c2f377db21" />
 
 
 ### 🔹 Command Used: nmap -A testfire.net
-<img width="1540" height="777" alt="nmapscan 2" src="https://github.com/user-attachments/assets/597509ef-e0f1-468c-8a83-d4177707360e" />
+<img width="1540" height="777" alt="nmapscan 2" src="https://github.com/user-attachments/assets/41f7696d-4eda-4095-a567-a5302f2ddca6" />
 
 
 ###  Findings:
@@ -70,9 +70,9 @@ http://testfire.net/
 ##  2. OWASP ZAP Analysis
 
 ### 📸 Alerts Overview:
-<img width="1782" height="518" alt="zap3" src="https://github.com/user-attachments/assets/4a3513fb-9ac3-4fdb-a3ab-e5c178c5719a" />
-<img width="673" height="422" alt="zap4" src="https://github.com/user-attachments/assets/c5f02b02-3337-4938-8b6c-3a3ee1d164cc" />
-<img width="1918" height="575" alt="zap6" src="https://github.com/user-attachments/assets/8e6526bc-5d38-4cf6-b8c5-829ed674791d" />
+<img width="1782" height="518" alt="zap3" src="https://github.com/user-attachments/assets/a8b23f86-4b95-4bb1-ac60-9a1196734f67" />
+<img width="673" height="422" alt="zap4" src="https://github.com/user-attachments/assets/749cf207-9c5a-4a54-a601-670ebc154ce6" />
+<img width="1917" height="552" alt="zap5" src="https://github.com/user-attachments/assets/a310fef7-3645-4cce-bebf-18ea5fae191e" />
 
 
 ###  Findings:
@@ -98,7 +98,7 @@ http://testfire.net/
 ##  3. Browser DevTools Analysis
 
 ### 📸 Headers:
-<img width="1912" height="757" alt="devtool2" src="https://github.com/user-attachments/assets/43739dc6-12f5-4947-a30d-aea9aa5a2d11" />
+<img width="1912" height="757" alt="devtool2" src="https://github.com/user-attachments/assets/36ec1c42-27db-4702-aeb8-cb73dfa75521" />
 
 
 ###  Findings:
